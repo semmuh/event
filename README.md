@@ -6,4 +6,4 @@ plantuml
 Klassendiagramm
 
 
-<img width="479" alt="image" src="https://github.com/user-attachments/assets/f721c279-f8a6-40d5-b46f-be91f16d1fb2" />
+<img width="439" alt="image" src="https://github.com/user-attachments/assets/b5884fe3-286f-45e8-bcd6-67018da874c4" />
