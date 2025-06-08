@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>at.muharremoglu</groupId>
-    <artifactId>event</artifactId>
+    <artifactId>concert</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>vaadin_projekt_Muharremoglu</name>
     <description>vaadin_projekt_Muharremoglu</description>
